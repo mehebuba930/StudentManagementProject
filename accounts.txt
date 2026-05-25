@@ -1,0 +1,2 @@
+ADMIN|Administrator|admin|admin123
+TEACHER|Teacher|teacher|teacher123

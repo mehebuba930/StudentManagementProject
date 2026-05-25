@@ -1,0 +1,1 @@
+23452|mehebuba|mehebuba123|1034|CSE|BACHELOR|1|0|CSE101,Introduction to Programming,3,0.0,1;MAT101,Calculus I,3,0.0,1;ENG101,English Communication,3,0.0,1;PHY101,Physics,3,0.0,1|1
